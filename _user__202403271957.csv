@@ -1,0 +1,18 @@
+"id","created_at","updated_at","is_active","address","date_of_birth","facebook_account_id","fullname","google_account_id","password","username","role_id","email"
+1,"2024-03-21 09:34:22.220825","2024-03-25 15:52:08.170053",0,Nguyen Luong Bang,"2024-03-14 07:00:00",1,Quang,1,$2a$10$iM5irIP8rKEye2ivIUJ3X.Of5YBrYVQSc53Fnxtz/eI2H4YlTlOFS,"0345569252",1,toiquang
+2,"2024-03-22 15:53:49.618305","2024-03-22 15:53:49.618305",0,"","2024-03-22 15:53:49.613000",,Thien Quang,,$2a$10$mUkq8rtVvwO30Pae7kTWwuWwTT4VVrXvRUfgPum0NatJ0Q9t89eBS,thienquang,1,toiquang24@gmail.com
+3,"2024-03-26 19:46:27.348892","2024-03-26 19:46:27.348892",0,"","2024-03-26 19:46:27.343000",,John Doe,,$2a$10$fDoPC6Bzo6Z1/9XX5blac.hJhCTU35fBUGdask1WGqnBgz5jctcLK,johndoe,2,john.doe@example.com
+4,"2024-03-26 19:46:40.401134","2024-03-26 19:46:40.401657",0,"","2024-03-26 19:46:40.390000",,Emma Smith,,$2a$10$qBpWnQ9YEkdF80gDQVcHmeSb3uuhqmKlnig6NyvAF9oQziV7PXODm,emmasmith,2,emma.smith@example.com
+5,"2024-03-26 19:47:00.234885","2024-03-26 19:47:00.234885",0,"","2024-03-26 19:47:00.232000",,John Son,,$2a$10$oqgSZF.xVt7W0W8tflmb9eYYRaLtJhADy6t2fMTG5oxz0B6TafXYC,johnson,2,michael.johnson@example.com
+6,"2024-03-26 19:47:19.261888","2024-03-26 19:47:19.262397",0,"","2024-03-26 19:47:19.260000",,Sarah,,$2a$10$lPY0wz6gCi/SwAHVYGwPk.V5/fnzmc37zIKSk4jUaQEPwRuQP5zQi,sarah,2,sarah.wilson@example.com
+7,"2024-03-26 19:48:15.561949","2024-03-26 19:48:15.561949",0,"","2024-03-26 19:48:15.559000",,David,,$2a$10$1y4ysszUvBQwJHrKRnUDzuWeBp3OKZ06SwEP.z75S2YQb9nmQoH9O,david,2,david.brown@example.com
+8,"2024-03-26 19:48:27.399289","2024-03-26 19:48:27.399836",0,"","2024-03-26 19:48:27.397000",,Lisa,,$2a$10$/RCgVfadXb/xM1guX4pyXO3vQ0Qej1xCeJVpTFaZCELgpNr1dEts.,lisa,2,lisa.jones@example.com
+9,"2024-03-26 19:48:40.852292","2024-03-26 19:48:40.852292",0,"","2024-03-26 19:48:40.850000",,Ryan,,$2a$10$l2RnY9EYeIx1fE5BCpDXLelRJZHbyBe2622aMHhAgfg6D4YMHZUry,ryan,2,ryan.miller@example.com
+10,"2024-03-26 19:48:56.112579","2024-03-26 19:48:56.112579",0,"","2024-03-26 19:48:56.110000",,Jessica,,$2a$10$E2V54Oce1WF19iW3l7FFp.R/xUIvEzgm1TGGKLoBJrDmzdDEeO2wi,jessica,2,jessica.taylor@example.com
+11,"2024-03-26 19:49:07.885417","2024-03-26 19:49:07.885417",0,"","2024-03-26 19:49:07.883000",,Amanda,,$2a$10$PCK7vpI0aka0OuelyPFLO.S37AIRYfllPAsG4h9/FZ0l4rtxmIbNC,kevin,2,kevin.moore@example.com
+12,"2024-03-26 19:49:21.352879","2024-03-26 19:49:21.352879",0,"","2024-03-26 19:49:21.350000",,Kevin,,$2a$10$bhttvXZCXm.ivBVfY0KhNu3lkdmD3VtNZoMy8230xAYBH36J61Q3q,amanda,2,amanda.white@example.com
+13,"2024-03-26 19:49:32.612035","2024-03-26 19:49:32.612035",0,"","2024-03-26 19:49:32.609000",,Mat Thew,,$2a$10$IWdZ5ClDxlRyY9aI3JGsZu9uMTLw5gXVhEfvdvNJwGCYqeD7IJre6,matthew,2,matthew.jackson@example.com
+14,"2024-03-26 19:49:44.580607","2024-03-26 19:49:44.580607",0,"","2024-03-26 19:49:44.578000",,Emily,,$2a$10$0BGj//JzgY5BmhLz/m2t8u60ZlmezLHMsvJZZZBBfDp.ybJ6LgZR6,emily,2,emily.evans@example.com
+15,"2024-03-26 19:49:55.656661","2024-03-26 19:49:55.656661",0,"","2024-03-26 19:49:55.654000",,Olivia,,$2a$10$1N3yE1PyuYqZc6mfx2fC2eSq3nJsIE.vZ2FVbAP0AiwBgMA4GCgkS,daniel,2,daniel.thomas@example.com
+16,"2024-03-26 19:50:07.739405","2024-03-26 19:50:07.739405",0,"","2024-03-26 19:50:07.737000",,Daniel,,$2a$10$wnxXKLWPRXN2NIXRFt.gPOJiLsdL2FlJl04oIoQpIBWFYu1YaRIIu,olivia,2,olivia.johnson@example.com
+17,"2024-03-26 19:50:38.044602","2024-03-26 19:50:38.044602",0,"","2024-03-26 19:50:38.043000",,William,,$2a$10$19cHuUpUwUkA3jYmhzDluuJK8cBRK7z4lUkdeGzVxBfvK1MzAy1DK,william,2,william.walker@example.com
